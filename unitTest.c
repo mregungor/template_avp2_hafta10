@@ -27,7 +27,7 @@ size_t MSIZE(const void *p) {
 #endif
 //-----------------------------------------------------------------------------------//
 
-//Lab icin hafta8_fonksiyon prototipleri
+//Lab icin hafta10_fonksiyon prototipleri
 void hafta10_fonksiyon1(int **ptrPtr1, int elemanSayisi1);
 void hafta10_fonksiyon2(int *ptr1, int **ptrPtr2, int elemanSayisi1, int elemanSayisi2);
 
